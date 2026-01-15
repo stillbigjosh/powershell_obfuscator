@@ -32,7 +32,7 @@ A comprehensive PowerShell script obfuscator designed for red team operations. T
 
 ## Usage
 ```bash
-python3 powershell_obfuscator.py input.ps1 -o obfuscated.ps1 -l high
+python3 powershell_obfuscator.py input.ps1 -o obfuscated.ps1 -l low
 ```
 
 Options:
