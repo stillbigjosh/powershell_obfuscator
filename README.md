@@ -41,6 +41,6 @@ Options:
 - `-v, --verbose`: Enable verbose logging
 
 ## Disclaimer
-Users are responsible for ensuring their use of this framework complies with laws, regulations, and corporate policies. The author cannot be held responsible for any malicious utilizations. The Software is intended exclusively for authorised penetration testers and security researchers who have obtained authorisation from the owner of each target system.
+Users are responsible for ensuring their use of this tool complies with laws, regulations, and corporate policies. The author cannot be held responsible for any malicious utilizations. The Software is intended exclusively for authorised penetration testers and security researchers who have obtained authorisation from the owner of each target system.
 By downloading this software you are accepting the terms of use and the licensing agreement.
 
