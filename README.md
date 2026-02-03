@@ -40,4 +40,7 @@ Options:
 - `-t, --test`: Run functionality tests after obfuscation
 - `-v, --verbose`: Enable verbose logging
 
-The PowerShell Obfuscator provides obfuscation suitable for advanced red team operations. 
+## Disclaimer
+Users are responsible for ensuring their use of this framework complies with laws, regulations, and corporate policies. The author cannot be held responsible for any malicious utilizations. The Software is intended exclusively for authorised penetration testers and security researchers who have obtained authorisation from the owner of each target system.
+By downloading this software you are accepting the terms of use and the licensing agreement.
+
