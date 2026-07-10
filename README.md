@@ -27,12 +27,12 @@ A comprehensive PowerShell script obfuscator designed for red team operations. T
 
 ## Limitations
 1. Highly obfuscated output is larger than original
-2. Medium and High obfuscation level can be unreliable (Low is recommended)
+2. Medium and High obfuscation level can be unreliable (**Low is recommended**)
 3. May not handle all PowerShell language constructs perfectly
 
 ## Usage
 ```bash
-python3 powershell_obfuscator.py input.ps1 -o obfuscated.ps1 -l low
+python3 powershell_obfuscator.py input.ps1 -o obfuscated.ps1 -l low -t -v
 ```
 
 Options:
